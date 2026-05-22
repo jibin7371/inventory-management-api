@@ -69,7 +69,7 @@ Pricing changes automatically based on stock conditions.
 
 # Tech Stack
 
-- Laravel 11
+- Laravel 12
 - Laravel Sanctum
 - MySQL
 - Eloquent ORM
@@ -97,7 +97,7 @@ app/
 ## Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPO_URL
+git clone YOUR_GITHUB_REPO_URL](https://github.com/jibin7371/inventory-management-api.git
 ```
 
 ---
